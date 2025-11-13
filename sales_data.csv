@@ -1,0 +1,8 @@
+sale_id,employee_name,department,sale_amount,sale_date
+1,John Doe,Electronics,4500,2025-11-12
+2,Jane Smith,Clothing,2000,2025-11-12
+3,John Doe,Electronics,1500,2025-11-13
+4,Anita Sharma,Furniture,3000,2025-11-13
+5,Jane Smith,Clothing,1000,2025-11-13
+
+
