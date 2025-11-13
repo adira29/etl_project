@@ -34,9 +34,9 @@ print("\nStep 3: Loading data into MySQL database...")
 # Connect to MySQL
 conn = mysql.connector.connect(
     host="localhost",
-    user="root",            # ← apna MySQL username likho
-    password="*****",  # ← apna MySQL password likho
-    database="etl_db"         # ← Database jo Workbench me banaya tha
+    user="root",            
+    password="*****",  
+    database="etl_db"       
 )
 
 cursor = conn.cursor()
